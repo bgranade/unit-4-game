@@ -5,10 +5,14 @@ body {
 }
 
 .jumbotron {
-	background-color: orangered;
+	background-color: #4aaaa5;
 	color: white;
 }
 
+.crystal-images {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
 
 .total-score {
 	color: white;
