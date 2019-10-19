@@ -1,0 +1,16 @@
+body {
+	background-image: url("../images/1054456.QMwObb.45b15ed1-3ffa-4139-b6ee-d6c6150b0ea5.png");
+	margin: 0px;
+	padding: 0px;
+}
+
+.jumbotron {
+	background-color: orangered;
+	color: white;
+}
+
+
+.total-score {
+	color: white;
+	background-color: #4aaaa5;
+}
