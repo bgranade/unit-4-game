@@ -2,7 +2,7 @@ var targetNumber = "";
 var wins = 0;
 var losses = 0;
 var counter = 0;
-var images = ["./assets/images/Crystal1.png", "./assets/images/Crystal2.png", "./assets/images/Crystal3.png", "./assets/images/Crystal4.png"];
+var images = ["./assets/images/crystal1.png", "./assets/images/crystal2.png", "./assets/images/crystal3.png", "./assets/images/crystal4.png"];
 
 function randomTargetNumber () {
     targetNumber = Math.floor(Math.random() * 102) + 19;
